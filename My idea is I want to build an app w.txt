@@ -1,6 +1,6 @@
 Project - SIVRAJ
 
-SIVRAJ my idea is to create an application or website for students and job seekers 
+Idea is to create an application or website for students and job seekers 
 Nowadays, job postings are like mini scams; they are not 100% real, so I want to start an app that can validate the jobs posted in multiple applications.
 
 Here are the ideas - 
