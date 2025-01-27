@@ -1,4 +1,4 @@
-# SIVARAJ
+# SIVRAJ
 A Basic Prototype for SIVRAJ
 
 1️⃣ main.py (FastAPI Backend)
